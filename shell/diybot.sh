@@ -5,7 +5,6 @@ if [ -d "/jd" ]; then
 else
   root=/ql
 fi
-
 diybot_url="https://github.com/beacham1988/JD_Diy.git"
 jbot_botset=$root/config/bot.json
 diybot_repo=$root/repo/diybot
